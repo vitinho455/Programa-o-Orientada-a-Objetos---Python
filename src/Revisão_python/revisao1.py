@@ -1,4 +1,4 @@
-##### Revisão de Listas
+##### Revisão de Listas e outros métodos
 
 
 qtde = int(input("Digite a quantidade de elementos que deseja colocar na lista: "))
