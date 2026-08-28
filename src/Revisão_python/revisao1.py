@@ -13,8 +13,8 @@ for i in range(qtde):
             element = int(input("Digite outro elemento: "))
     my_list.append(element)
 
-    my_list.sort(); ## Classificar a lista
-    my_list.reverse(); ## Inverte a lista
+    my_list.sort() ## Classificar a lista
+    my_list.reverse() ## Inverte a lista
 
 print("Elementos presentes: ", my_list)
 
