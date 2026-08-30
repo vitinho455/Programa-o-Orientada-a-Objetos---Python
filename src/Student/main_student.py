@@ -14,12 +14,7 @@ faltas = 0
 
 Student(name, age, note, faltas)
 
-n = input(int("Informe a quantidade de notas do estudante: ")
-
-for i in range n:
-
-    notas = input(int(f"Informe a {i}° nota do estudante: "))
-
+n = input(int("Informe a quantidade de notas do estudante: "))
 
 print("\n=======Informações do Estudante=======\n")
 
